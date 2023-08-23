@@ -1,0 +1,5 @@
+name: LobbyCore
+api: 5.0.0
+author: [DeadSafari]
+version: 1.0.0
+main: Ariza\LobbyCore\Main
